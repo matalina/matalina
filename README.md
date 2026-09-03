@@ -1,6 +1,3 @@
-[![my github stats](https://github-readme-stats.vercel.app/api?username=matalina&count_private=true&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=matalina&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api?username=matalina&show_icons=true&include_all_commits=true&theme=gruvbox)
 
-[![my top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matalina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[stats by @anuraghazra](https://github.com/anuraghazra/github-readme-stats)
-[![Matalina's GitHub stats](https://github-stats-extended.vercel.app/api?username=matalina)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=matalina&langs_count=4&hide_values=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=matalina&langs_count=4&hide_values=true&theme=gruvbox)
